@@ -1,0 +1,30 @@
+# Git Ignore for MySQL DBA Practice Lab
+# Credentials, local backups, and large temporary dumps must never be committed to git
+
+# Local backups directory
+backups/*.sql
+backups/*.sql.gz
+backups/*.dump
+
+# Raw UAT dump folder (contains large database dumps)
+Orchid uat dump for Jan2026/
+
+# Temporary diagnostic logs and dumps
+*.log
+*.tmp
+*.bak
+doc_dump.txt
+
+# OS-generated files
+Thumbs.db
+Desktop.ini
+.DS_Store
+
+# Local editor settings
+.vscode/
+.idea/
+
+
+# Temporary Office lock files
+~$*
+
