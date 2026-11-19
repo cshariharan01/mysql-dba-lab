@@ -1,14 +1,6 @@
-# MySQL Database Administration & Application Support Practice Lab
-**Target Role**: Application Support Engineer (Accenture Interview Preparation)  
+# MySQL Database Administration Practice Lab
 **Target Specialization**: MySQL Database Administration, Performance Diagnostics & Production Support  
 **Environment**: MySQL 8.0.30 Community Server (GPL) on Windows 11 Workstation
-
----
-
-> [!IMPORTANT]
-> **Candidate Positioning & Context Statement**:  
-> This project is a **personal learning, practical experimentation, and interview-preparation laboratory**. It is designed to reinforce hands-on database administration and tier-2/tier-3 application support skills alongside my **3.8 years of professional experience in MySQL development, reporting solutions, data migration, SQL optimization, and production data fixes**.  
-> This lab is completely separate from my employer's production systems and is **not presented as 3.8 years of professional enterprise DBA tenure**.
 
 ---
 
